@@ -6,7 +6,7 @@
   Frontend Web Developer - Since 2022
 </p>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div align='center' style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <a href="https://www.instagram.com/rudasmj/">
