@@ -1,20 +1,27 @@
 <h2 align='center'>Juan Rudas <img src="https://www.fg-a.com/flags/animated-colombia-flag.gif" width="25"></h2>
-<img align='right' src="https://imgur.com/a/IORefsx" style="border-radius:15px; object-fit:cover;" width="230">
-<p>Frontend Web Developer
+<br/>
+<p align='center' style="font-size:4rem;">Frontend Web Developer - Since 2022
 </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudasmj/)  
-[![Email](https://img.shields.io/badge/juanrudas2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <div style="display:flex; flex-direction:column; align-items:center; gap:10px;">
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudasmj/)  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanrudas2004@gmail.com)
 
+  </div>
+  <div>
+    <p align='center'>
+      <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=natclie&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+    </p>
 
-
-<p align='center'>
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=natclie&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+    </div>
+    <p align="center">
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=notsnakesilent&theme=tokyonight&margin-w=15&margin-h=15&exclude=Reviews"/>
+      </div>
+  </div>
 </p>
 
-<p align="center" style="display:flex; gap:50px; justify-content:center; flex-wrap:wrap;">
-    <img src="https://github-profile-trophy.vercel.app/?username=notsnakesilent&theme=tokyonight"/>
-</p>
 
 <h4 align="center">💻 Technologies</h4>
 
@@ -39,6 +46,4 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
 </p>
-
-
 <br/>
