@@ -1,13 +1,8 @@
-<h2 align="center">
-  Juan Rudas <img src="https://www.fg-a.com/flags/animated-colombia-flag.gif" width="25">
-</h2>
+<h2 align='center'>Juan Rudas <img src="https://www.fg-a.com/flags/animated-colombia-flag.gif" width="25"></h2>
+<br/>
+<p align='center' style="font-size:3rem;">Frontend Web Developer - Since 2022</p>
 
-<p align="center" style="font-size: 2rem;">
-  Frontend Web Developer - Since 2022
-</p>
-
-<div align='center' style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
+<div align="center">
   <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <a href="https://www.instagram.com/rudasmj/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -16,10 +11,18 @@
       <img src="https://img.shields.io/badge/juanrudas2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </div>
-
-  <div>
-    <img height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natclie&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  </div>
+  
+  <br/>
+  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=natclie&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  
+  <br/>
+  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natclie&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages">
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=natclie&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies">
 </div>
 
 <h4 align="center">💻 Technologies</h4>
