@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="mailto:juanrudas2004@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      <img src="https://img.shields.io/badge/juanrudas2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </div>
 
